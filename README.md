@@ -9,19 +9,35 @@ This is a simple starter template for non-technical founders taking part in the 
 
 Use this to test ideas and enhance your first Web3 proof of concept on Algorand — no coding experience needed.
 
-## Getting Started
+## 🌟 How To Get Started Instructions
 
-### 1. Fork this repository
+### **Fork the Repo:**
 
-Click the **"Fork"** button at the top right of this page to create your own copy under your GitHub account.
+To create your own copy of this repository:
 
-### 2. Open it in Codespaces
+a. **Go to the GitHub Repository:**
+   - Navigate to the main page which is the current one your on.
 
-1. On your forked repo, click the green **"Code"** button  
-2. Select **"Create codespace on main"**  
-3. Wait for the Codespace to load (this may take a minute)
+b. **Click the "Fork" Button:**
+   - In the top-right corner of the page, click the **Fork** button. This will create a copy of the repository under your GitHub account.
 
-Once it opens, everything is already set up and ready to explore.
+c. **Wait for the Forking Process to Complete:**
+   - GitHub will take a few moments to create the fork. Once complete, you’ll be redirected to your newly created fork.
+
+
+
+https://github.com/user-attachments/assets/92e746e1-3143-4769-8a5a-1339e4bd7a14
+
+
+
+## 🚀 Start with Codespaces
+This is the fastest way to get up and running!
+
+1. **Create a Codespace:**
+
+   - Click the green "Code" button at the top right of your forked repo.
+   - Select "Create codespace on main".
+   - Once your Codespace is fully loaded, you are ready to go!
 
 **Pro Tip:** GitHub Codespaces is included with free accounts but comes with a monthly limit of 60 hours.  
 
@@ -29,7 +45,7 @@ To avoid losing your progress, be sure to **commit your changes regularly** — 
 
 (TBA)
 
-## Project Structure
+## Project Structure Simplified
 
 - `src/` — Frontend code (The webpage)
 - `src/App.tsx` — Main app layout and routing (TBD)
