@@ -59,7 +59,3 @@ Need more help? See the Masterclass Reference Guide for step-by-step instruction
 
 [View the guide](https://docs.google.com/document/d/19FHGLijTwKivy14KpNYaXVLxEI_Yo97ooaGj6CxZ1fA/edit?usp=sharing)
 
-## Coming Soon
-
-In Session 5, we’ll add a simple way to mint your own token and expand the functionality further.
-
